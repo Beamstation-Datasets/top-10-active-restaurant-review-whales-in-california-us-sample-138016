@@ -1,12 +1,12 @@
 {
-  "export_job_id": "1d8d8111-4c4a-4de8-8ce8-63c5f7cf56e4",
+  "export_job_id": "dfb4650d-e49a-4691-a5a2-c74b2d03e7b1",
   "id_short": 138016,
-  "published_at": "2026-04-18T07:25:58Z",
+  "published_at": "2026-04-22T07:07:10Z",
   "repo_name": "top-10-active-restaurant-review-whales-in-california-us-sample-138016",
   "sample_asset_name": "beamstation_138016_restaurants-us-ca_SAMPLE_DIST.csv",
   "sample_b2_path": "b2-export:BeamStation-ExportFiles/138016/beamstation_138016_restaurants-us-ca_SAMPLE_DIST.csv",
-  "sample_records": 92,
-  "sample_sha256": "92da837cfae67a148b2b96f3e26383daa5cadb72f62ecf464b8c148eb4ae87b6",
-  "sample_size_bytes": 378178,
-  "total_records": 927
+  "sample_records": 78,
+  "sample_sha256": "49bb32b4fd21ac15eda99baf0495bd3b414d4d37dd4fbeeecc4525dadb1d3e27",
+  "sample_size_bytes": 311735,
+  "total_records": 780
 }

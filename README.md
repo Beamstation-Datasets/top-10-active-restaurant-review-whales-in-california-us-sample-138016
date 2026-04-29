@@ -1,6 +1,6 @@
 # Top 10% Active Restaurant Review Whales in California, US
 
-> Free BeamStation sample export with 78 rows and masked direct-contact fields.
+> Free BeamStation sample export with 4 rows and masked direct-contact fields.
 
 ## Snapshot
 
@@ -9,9 +9,9 @@
 | Dataset ID | `138016` |
 | Location | California |
 | Category | Restaurants |
-| Full dataset size | 780 records |
-| Free sample size | 78 records (10.0%) |
-| Last export | 2026-04-22T05:10:18.159258+00:00 |
+| Full dataset size | 45 records |
+| Free sample size | 4 records (8.89%) |
+| Last export | 2026-04-29T07:26:30.798883+00:00 |
 | Download | [Latest release asset](https://github.com/Beamstation-Datasets/top-10-active-restaurant-review-whales-in-california-us-sample-138016/releases/download/sample-latest/beamstation_138016_restaurants-us-ca_SAMPLE_DIST.csv) |
 
 ## What is in this sample
